@@ -1,3 +1,3 @@
 # movie_apps
 
-BERSIAPLAH DI HITAMKAN FLUTTER
+(Flutter + GetX + Hive)
