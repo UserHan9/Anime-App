@@ -17,7 +17,7 @@
 - List movie
 - Detail movie
 - Favorite movie (local storage dengan Hive)
-- State management menggunakan GetX
+- State management GetX
 - Clean & simple UI
 
 ---
